@@ -22,7 +22,7 @@ and open the template in the editor.
             <div class="col-md-10 col-md-offset-1 main" >
                 <div class="col-md-6 left-side" >
                     <h3>IBM</h3>
-                    <p>Ingrese a la aplicacion para ver horarios asignados, asignar horarios y crear empleados</p>
+                    <p>Ingrese a la aplicacion para ver horarios asignados, asignar horarios y crear empleados IBM</p>
                     <br>
 
 
